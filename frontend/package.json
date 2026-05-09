@@ -1,0 +1,24 @@
+{
+  "name": "team-task-manager-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite preview --port $PORT --host"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "date-fns": "^3.3.1",
+    "lucide-react": "^0.363.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-router-dom": "^6.22.3",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.1.6"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
